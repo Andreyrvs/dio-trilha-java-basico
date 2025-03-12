@@ -1,4 +1,4 @@
-package edu.andrey.metodos;
+package edu.andrey.primeirasemana.metodos;
 
 public class Usuario {
     public static void  main(String[] args) {

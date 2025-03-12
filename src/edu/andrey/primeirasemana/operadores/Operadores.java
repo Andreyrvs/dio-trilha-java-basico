@@ -1,4 +1,4 @@
-package edu.andrey.operadores;
+package edu.andrey.primeirasemana.operadores;
 
 public class Operadores {
     public static void main(String[] args) {
