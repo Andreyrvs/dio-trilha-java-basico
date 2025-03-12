@@ -5,7 +5,7 @@ public class Operadores {
         int a = 3;
         int b = 5;
 
-        String resultado = "";
+        String resultado;
         if (true) {
             resultado = "verdaderio";
         } else {
